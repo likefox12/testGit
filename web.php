@@ -6,5 +6,5 @@
  * Time: 3:52 PM
  */
 
-echo "wqewqe";
+
 echo "97123213";
